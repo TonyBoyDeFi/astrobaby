@@ -264,7 +264,8 @@ const App = () => {
               </button>
 
             </div>
-
+            <p className="headingOne text-center small mt-4"> <i>MAKE SURE YOU HAVE ENOUGH ETH (0.04ETH) IN YOUR WALLET BEFORE MINTING</i></p>
+                        <p className="headingOne text-center small mt-4"> <i>TO PREVENT AN HIGH GAS FEE ERROR</i></p>
             <p className="headingOne text-center small mt-4"> <i>PRICE: 0.04ETH MAX | PER WALLET: *Unlimited*</i></p>
           </div>
         </div>
