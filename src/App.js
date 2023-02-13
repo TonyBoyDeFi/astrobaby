@@ -33,7 +33,7 @@ const App = () => {
     const cId = await newWeb3.eth.getChainId();
     setChainId((ChainId = cId));
     console.log(ChainId);
-    if (ChainId == 4 || ChainId == 1) {
+    if (ChainId === 4 || ChainId === 1) {
       loadContract();
       const accounts = await newWeb3.eth.getAccounts();
       setAccount(accounts[0]);
