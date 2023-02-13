@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adc11185.css",
+    "main.js": "/static/js/main.75df500c.js",
+    "static/media/bg2.png": "/static/media/bg2.d038c4fca1137db42924.png",
+    "static/media/navbg.png": "/static/media/navbg.d038c4fca1137db42924.png",
+    "static/media/bg.jpg": "/static/media/bg.b1b8b3d8ca707468d112.jpg",
+    "static/media/Trebuchet-MS-Italic.woff": "/static/media/Trebuchet-MS-Italic.227aeff53392dc5d749a.woff",
+    "static/media/mintNow.jpeg": "/static/media/mintNow.4e3df058d5fc656cd173.jpeg",
+    "static/media/trebuc.woff": "/static/media/trebuc.aff341baa51413e48b66.woff",
+    "static/media/logo.png": "/static/media/logo.437b9617a459c71934bd.png",
+    "static/media/Arcadepix.woff": "/static/media/Arcadepix.796915b48d5271bd012a.woff",
+    "static/media/Arcadepix.woff2": "/static/media/Arcadepix.a719d7ab89a61530544e.woff2",
+    "index.html": "/index.html",
+    "main.adc11185.css.map": "/static/css/main.adc11185.css.map",
+    "main.75df500c.js.map": "/static/js/main.75df500c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc11185.css",
+    "static/js/main.75df500c.js"
+  ]
+}
