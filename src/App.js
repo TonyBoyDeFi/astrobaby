@@ -151,14 +151,11 @@ const App = () => {
 
           <div className="navLinks d-none d-md-flex">
             <ul className="navUl">
-              <li>
-                <a href="#"></a>
+              <li>                
               </li>
               <li>
-                <a href="#"></a>
               </li>
               <li>
-                <a href="#"></a>
               </li>
               <li>
                 <a href="https://twitter.com/AstrobabyNFT">
